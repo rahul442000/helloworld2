@@ -10,5 +10,11 @@
         android:layout_height="wrap_content"
         android:text="my name is rahul soni"
         android:textSize="60dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="hello everyone"
+        android:textSize="60dp"/>
+
 
 </android.support.constraint.ConstraintLayout>
